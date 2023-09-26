@@ -50,6 +50,6 @@
 				</configuration>
 			</plugin>
 		</plugins>
-		<finalName>devops-integration</finalName>
+		<finalName>jenkins-devops</finalName>
 	</build>
 </project>
